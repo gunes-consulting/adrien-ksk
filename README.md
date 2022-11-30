@@ -1,6 +1,6 @@
 - 🙋🏻‍♂️ Hi, I’m Adrien
-- 🤩 I’m specialized in Salesforce & QMS
-- 👨🏻‍💻 I’m currently learning iOS / SwiftUI
+- 🤩 Specialized in Salesforce & QMS
+- 👨🏻‍💻 Currently developing App on Salesforce Platform
 - 💞️ I’m looking to collaborate on business opportunities
 - 🌍 I’m Location Independent
 
